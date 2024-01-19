@@ -1,0 +1,6 @@
+C:\Users\tyree\source\repos\ClassLibraryStudy\ClassLibraryStudy\bin\Debug\ClassLibraryStudy.dll
+C:\Users\tyree\source\repos\ClassLibraryStudy\ClassLibraryStudy\bin\Debug\ClassLibraryStudy.pdb
+C:\Users\tyree\source\repos\ClassLibraryStudy\ClassLibraryStudy\obj\Debug\ClassLibraryStudy.csproj.AssemblyReference.cache
+C:\Users\tyree\source\repos\ClassLibraryStudy\ClassLibraryStudy\obj\Debug\ClassLibraryStudy.csproj.CoreCompileInputs.cache
+C:\Users\tyree\source\repos\ClassLibraryStudy\ClassLibraryStudy\obj\Debug\ClassLibraryStudy.dll
+C:\Users\tyree\source\repos\ClassLibraryStudy\ClassLibraryStudy\obj\Debug\ClassLibraryStudy.pdb
